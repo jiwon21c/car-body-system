@@ -1,0 +1,1 @@
+Célja egy mitmótokból álló CAN-es LIN-es Body rendszer tervezése. A rendszer architektúrája a következő: Az IE225-ben található kormány testesíti meg a vezető interfészét ez csatlakozik a két első ajtóhoz CAN buszon. A hátsó ajtók LIN buszon kommunikálnak az azonos oldali hátsó ajtókkal. Megoldandó feladatok az ablakmozgatás kezelése, és a központi zár kezelése.
